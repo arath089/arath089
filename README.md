@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Directus CMS**
 
-- 👨‍💻 All of my projects are available at [www.architrathi.ca](www.architrathi.ca)
+- 👨‍💻 All of my projects are available at [www.architrathi.ca](https://www.architrathi.ca/)
 
 - 💬 Ask me about **Liquid, JavaScript, Vue, Shopify CMS**
 

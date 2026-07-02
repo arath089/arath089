@@ -56,10 +56,4 @@ I care about **reusable systems over one-off fixes** and owning work end to end.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arath089&show_icons=true&theme=tokyonight&hide_border=true" alt="Archit's GitHub stats" />
-</p>
-
----
-
 <p align="center"><i>Outside of code: I play guitar. 🎸</i></p>
